@@ -12,5 +12,5 @@ This visualization focused on:
 - Sales and profit generated(monthly, quarterly)
 - % Profit each country generated 
 
-This project is hosted on Power Bi community.Find the link below
+This project is hosted on Power Bi community.Click on the link
 https://bit.ly/3AD8s0l
