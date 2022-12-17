@@ -14,3 +14,5 @@ This visualization focused on:
 
 This project is hosted on Power Bi community.Click on the link
 https://bit.ly/3AD8s0l
+
+- RollingDate Fx = List.Dates(Source,Number.From(DateTime.LocalNow())- Number.From(Source), #duration(1,0,0,0))
