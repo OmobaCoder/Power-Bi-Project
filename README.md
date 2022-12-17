@@ -21,12 +21,12 @@ https://bit.ly/3AD8s0l
 
 Here are some questions that were answered in the course of this analysis:
 
--What days and times do we tend to be busiest?
--How many pizzas are we making during peak periods?
--What are our best and worst-selling pizzas?
--What's our average order value?
--What makes our pizza different?
--How many orders did we receive on weekdays and weekends?
+- What days and times do we tend to be busiest?
+- How many pizzas are we making during peak periods?
+- What are our best and worst-selling pizzas?
+- What's our average order value?
+- What makes our pizza different?
+- How many orders did we receive on weekdays and weekends?
 
 This project is hosted on Power Bi community.Click on the link
 https://bit.ly/3hFtAwu
